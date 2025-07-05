@@ -1,0 +1,8 @@
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.csproj.AssemblyReference.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.AssemblyInfoInputs.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.AssemblyInfo.cs
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.csproj.CoreCompileInputs.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net9.0\FingerprintService.MvcApplicationPartsAssemblyInfo.cs

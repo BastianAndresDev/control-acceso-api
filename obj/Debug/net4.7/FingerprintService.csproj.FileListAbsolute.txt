@@ -1,0 +1,7 @@
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.csproj.AssemblyReference.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.csproj.SuggestedBindingRedirects.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.exe.config
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.AssemblyInfoInputs.cache
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.AssemblyInfo.cs
+C:\Users\basti\Solucion-ControlAcceso\FingerprintService\obj\Debug\net4.7\FingerprintService.csproj.CoreCompileInputs.cache
