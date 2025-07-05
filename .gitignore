@@ -1,0 +1,11 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Variables de entorno
+.env
+
+# VS Code
+.vscode/
